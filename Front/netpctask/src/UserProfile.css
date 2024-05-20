@@ -1,0 +1,42 @@
+.contact-item {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 8px;
+    border-bottom: 1px solid #ddd;
+  }
+  
+  .contact-name {
+    flex-grow: 1;
+    cursor: pointer;
+  }
+  
+  .button-container {
+    display: flex;
+    gap: 10px; /* Add space between the buttons */
+  }
+  
+  .delete-button, .update-button {
+    background-color: #ff4d4d;
+    color: white;
+    border: none;
+    padding: 5px 10px;
+    cursor: pointer;
+    border-radius: 3px;
+    transition: background-color 0.3s;
+    flex-shrink: 0; /* Ensure the button doesn't grow to take more space */
+    white-space: nowrap; /* Prevent text wrapping */
+  }
+  
+  .update-button {
+    background-color: #4caf50;
+  }
+  
+  .delete-button:hover {
+    background-color: #ff1a1a;
+  }
+  
+  .update-button:hover {
+    background-color: #45a049;
+  }
+  

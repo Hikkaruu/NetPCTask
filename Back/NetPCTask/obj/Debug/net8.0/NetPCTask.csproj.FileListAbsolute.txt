@@ -1,0 +1,456 @@
+C:\Users\Hikkaru\Desktop\netpc\NetPCTask\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Hikkaru\Desktop\netpc\NetPCTask\bin\Debug\net8.0\appsettings.json
+C:\Users\Hikkaru\Desktop\netpc\NetPCTask\bin\Debug\net8.0\NetPCTask.exe
+C:\Users\Hikkaru\Desktop\netpc\NetPCTask\bin\Debug\net8.0\NetPCTask.deps.json
+C:\Users\Hikkaru\Desktop\netpc\NetPCTask\bin\Debug\net8.0\NetPCTask.runtimeconfig.json
+C:\Users\Hikkaru\Desktop\netpc\NetPCTask\bin\Debug\net8.0\NetPCTask.dll
+C:\Users\Hikkaru\Desktop\netpc\NetPCTask\bin\Debug\net8.0\NetPCTask.pdb
+C:\Users\Hikkaru\Desktop\netpc\NetPCTask\bin\Debug\net8.0\AutoMapper.dll
+C:\Users\Hikkaru\Desktop\netpc\NetPCTask\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Hikkaru\Desktop\netpc\NetPCTask\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Hikkaru\Desktop\netpc\NetPCTask\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Hikkaru\Desktop\netpc\NetPCTask\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Hikkaru\Desktop\netpc\NetPCTask\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Hikkaru\Desktop\netpc\NetPCTask\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Hikkaru\Desktop\netpc\NetPCTask\obj\Debug\net8.0\NetPCTask.csproj.AssemblyReference.cache
+C:\Users\Hikkaru\Desktop\netpc\NetPCTask\obj\Debug\net8.0\NetPCTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hikkaru\Desktop\netpc\NetPCTask\obj\Debug\net8.0\NetPCTask.AssemblyInfoInputs.cache
+C:\Users\Hikkaru\Desktop\netpc\NetPCTask\obj\Debug\net8.0\NetPCTask.AssemblyInfo.cs
+C:\Users\Hikkaru\Desktop\netpc\NetPCTask\obj\Debug\net8.0\NetPCTask.csproj.CoreCompileInputs.cache
+C:\Users\Hikkaru\Desktop\netpc\NetPCTask\obj\Debug\net8.0\NetPCTask.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Hikkaru\Desktop\netpc\NetPCTask\obj\Debug\net8.0\NetPCTask.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Hikkaru\Desktop\netpc\NetPCTask\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Hikkaru\Desktop\netpc\NetPCTask\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Hikkaru\Desktop\netpc\NetPCTask\obj\Debug\net8.0\staticwebassets\msbuild.NetPCTask.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Hikkaru\Desktop\netpc\NetPCTask\obj\Debug\net8.0\staticwebassets\msbuild.build.NetPCTask.props
+C:\Users\Hikkaru\Desktop\netpc\NetPCTask\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.NetPCTask.props
+C:\Users\Hikkaru\Desktop\netpc\NetPCTask\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.NetPCTask.props
+C:\Users\Hikkaru\Desktop\netpc\NetPCTask\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Hikkaru\Desktop\netpc\NetPCTask\obj\Debug\net8.0\scopedcss\bundle\NetPCTask.styles.css
+C:\Users\Hikkaru\Desktop\netpc\NetPCTask\obj\Debug\net8.0\NetPCTask.csproj.Up2Date
+C:\Users\Hikkaru\Desktop\netpc\NetPCTask\obj\Debug\net8.0\NetPCTask.dll
+C:\Users\Hikkaru\Desktop\netpc\NetPCTask\obj\Debug\net8.0\refint\NetPCTask.dll
+C:\Users\Hikkaru\Desktop\netpc\NetPCTask\obj\Debug\net8.0\NetPCTask.pdb
+C:\Users\Hikkaru\Desktop\netpc\NetPCTask\obj\Debug\net8.0\NetPCTask.genruntimeconfig.cache
+C:\Users\Hikkaru\Desktop\netpc\NetPCTask\obj\Debug\net8.0\ref\NetPCTask.dll
+C:\Users\Hikkaru\Desktop\netpc\NetPCTask\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Hikkaru\Desktop\netpc\NetPCTask\bin\Debug\net8.0\Npgsql.dll
+C:\Users\Hikkaru\Desktop\netpc\NetPCTask\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\Hikkaru\Desktop\netpc\NetPCTask\bin\Debug\net8.0\Humanizer.dll
+C:\Users\Hikkaru\Desktop\netpc\NetPCTask\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Hikkaru\Desktop\netpc\NetPCTask\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\Hikkaru\Desktop\netpc\NetPCTask\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Hikkaru\Desktop\netpc\NetPCTask\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Hikkaru\Desktop\netpc\NetPCTask\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Hikkaru\Desktop\netpc\NetPCTask\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Hikkaru\Desktop\netpc\NetPCTask\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Hikkaru\Desktop\netpc\NetPCTask\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\Hikkaru\Desktop\netpc\NetPCTask\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\Hikkaru\Desktop\netpc\NetPCTask\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\Hikkaru\Desktop\netpc\NetPCTask\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\Hikkaru\Desktop\netpc\NetPCTask\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\Hikkaru\Desktop\netpc\NetPCTask\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\Hikkaru\Desktop\netpc\NetPCTask\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\Hikkaru\Desktop\netpc\NetPCTask\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hikkaru\Desktop\netpc\NetPCTask\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hikkaru\Desktop\netpc\NetPCTask\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hikkaru\Desktop\netpc\NetPCTask\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hikkaru\Desktop\netpc\NetPCTask\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hikkaru\Desktop\netpc\NetPCTask\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hikkaru\Desktop\netpc\NetPCTask\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hikkaru\Desktop\netpc\NetPCTask\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hikkaru\Desktop\netpc\NetPCTask\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hikkaru\Desktop\netpc\NetPCTask\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hikkaru\Desktop\netpc\NetPCTask\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hikkaru\Desktop\netpc\NetPCTask\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hikkaru\Desktop\netpc\NetPCTask\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hikkaru\Desktop\netpc\NetPCTask\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hikkaru\Desktop\netpc\NetPCTask\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hikkaru\Desktop\netpc\NetPCTask\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hikkaru\Desktop\netpc\NetPCTask\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hikkaru\Desktop\netpc\NetPCTask\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hikkaru\Desktop\netpc\NetPCTask\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hikkaru\Desktop\netpc\NetPCTask\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hikkaru\Desktop\netpc\NetPCTask\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hikkaru\Desktop\netpc\NetPCTask\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hikkaru\Desktop\netpc\NetPCTask\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hikkaru\Desktop\netpc\NetPCTask\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hikkaru\Desktop\netpc\NetPCTask\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hikkaru\Desktop\netpc\NetPCTask\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hikkaru\Desktop\netpc\NetPCTask\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hikkaru\Desktop\netpc\NetPCTask\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hikkaru\Desktop\netpc\NetPCTask\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hikkaru\Desktop\netpc\NetPCTask\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hikkaru\Desktop\netpc\NetPCTask\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hikkaru\Desktop\netpc\NetPCTask\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hikkaru\Desktop\netpc\NetPCTask\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hikkaru\Desktop\netpc\NetPCTask\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hikkaru\Desktop\netpc\NetPCTask\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hikkaru\Desktop\netpc\NetPCTask\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hikkaru\Desktop\netpc\NetPCTask\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hikkaru\Desktop\netpc\NetPCTask\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hikkaru\Desktop\netpc\NetPCTask\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hikkaru\Desktop\netpc\NetPCTask\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hikkaru\Desktop\netpc\NetPCTask\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hikkaru\Desktop\netpc\NetPCTask\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hikkaru\Desktop\netpc\NetPCTask\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hikkaru\Desktop\netpc\NetPCTask\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hikkaru\Desktop\netpc\NetPCTask\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hikkaru\Desktop\netpc\NetPCTask\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hikkaru\Desktop\netpc\NetPCTask\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hikkaru\Desktop\netpc\NetPCTask\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hikkaru\Desktop\netpc\NetPCTask\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hikkaru\Desktop\netpc\NetPCTask\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hikkaru\Desktop\netpc\NetPCTask\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hikkaru\Desktop\netpc\NetPCTask\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hikkaru\Desktop\netpc\NetPCTask\bin\Debug\net8.0\BCrypt.Net-Next.dll
+C:\Users\Hikkaru\Desktop\netpc\NetPCTask\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Hikkaru\Desktop\netpc\NetPCTask\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Hikkaru\Desktop\netpc\NetPCTask\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Hikkaru\Desktop\netpc\NetPCTask\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Hikkaru\Desktop\netpc\NetPCTask\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Hikkaru\Desktop\netpc\NetPCTask\bin\Debug\net8.0\System.Web.Cors.dll
+C:\Users\Hikkaru\Desktop\netpc\NetPCTask\bin\Debug\net8.0\Microsoft.Exchange.WebServices.Auth.dll
+C:\Users\Hikkaru\Desktop\netpc\NetPCTask\bin\Debug\net8.0\Microsoft.Exchange.WebServices.dll
+C:\Users\Hikkaru\Desktop\netpc\Back\NetPCTask\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Hikkaru\Desktop\netpc\Back\NetPCTask\bin\Debug\net8.0\appsettings.json
+C:\Users\Hikkaru\Desktop\netpc\Back\NetPCTask\bin\Debug\net8.0\NetPCTask.exe
+C:\Users\Hikkaru\Desktop\netpc\Back\NetPCTask\bin\Debug\net8.0\NetPCTask.deps.json
+C:\Users\Hikkaru\Desktop\netpc\Back\NetPCTask\bin\Debug\net8.0\NetPCTask.runtimeconfig.json
+C:\Users\Hikkaru\Desktop\netpc\Back\NetPCTask\bin\Debug\net8.0\NetPCTask.dll
+C:\Users\Hikkaru\Desktop\netpc\Back\NetPCTask\bin\Debug\net8.0\NetPCTask.pdb
+C:\Users\Hikkaru\Desktop\netpc\Back\NetPCTask\bin\Debug\net8.0\AutoMapper.dll
+C:\Users\Hikkaru\Desktop\netpc\Back\NetPCTask\bin\Debug\net8.0\BCrypt.Net-Next.dll
+C:\Users\Hikkaru\Desktop\netpc\Back\NetPCTask\bin\Debug\net8.0\Humanizer.dll
+C:\Users\Hikkaru\Desktop\netpc\Back\NetPCTask\bin\Debug\net8.0\System.Web.Cors.dll
+C:\Users\Hikkaru\Desktop\netpc\Back\NetPCTask\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Hikkaru\Desktop\netpc\Back\NetPCTask\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\Hikkaru\Desktop\netpc\Back\NetPCTask\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Hikkaru\Desktop\netpc\Back\NetPCTask\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Hikkaru\Desktop\netpc\Back\NetPCTask\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Hikkaru\Desktop\netpc\Back\NetPCTask\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Hikkaru\Desktop\netpc\Back\NetPCTask\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Hikkaru\Desktop\netpc\Back\NetPCTask\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Hikkaru\Desktop\netpc\Back\NetPCTask\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Hikkaru\Desktop\netpc\Back\NetPCTask\bin\Debug\net8.0\Microsoft.Exchange.WebServices.Auth.dll
+C:\Users\Hikkaru\Desktop\netpc\Back\NetPCTask\bin\Debug\net8.0\Microsoft.Exchange.WebServices.dll
+C:\Users\Hikkaru\Desktop\netpc\Back\NetPCTask\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Hikkaru\Desktop\netpc\Back\NetPCTask\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Hikkaru\Desktop\netpc\Back\NetPCTask\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Hikkaru\Desktop\netpc\Back\NetPCTask\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Hikkaru\Desktop\netpc\Back\NetPCTask\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Hikkaru\Desktop\netpc\Back\NetPCTask\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Hikkaru\Desktop\netpc\Back\NetPCTask\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\Hikkaru\Desktop\netpc\Back\NetPCTask\bin\Debug\net8.0\Npgsql.dll
+C:\Users\Hikkaru\Desktop\netpc\Back\NetPCTask\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\Hikkaru\Desktop\netpc\Back\NetPCTask\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Hikkaru\Desktop\netpc\Back\NetPCTask\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Hikkaru\Desktop\netpc\Back\NetPCTask\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Hikkaru\Desktop\netpc\Back\NetPCTask\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\Hikkaru\Desktop\netpc\Back\NetPCTask\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\Hikkaru\Desktop\netpc\Back\NetPCTask\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\Hikkaru\Desktop\netpc\Back\NetPCTask\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\Hikkaru\Desktop\netpc\Back\NetPCTask\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\Hikkaru\Desktop\netpc\Back\NetPCTask\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\Hikkaru\Desktop\netpc\Back\NetPCTask\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Hikkaru\Desktop\netpc\Back\NetPCTask\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hikkaru\Desktop\netpc\Back\NetPCTask\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hikkaru\Desktop\netpc\Back\NetPCTask\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hikkaru\Desktop\netpc\Back\NetPCTask\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hikkaru\Desktop\netpc\Back\NetPCTask\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hikkaru\Desktop\netpc\Back\NetPCTask\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hikkaru\Desktop\netpc\Back\NetPCTask\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hikkaru\Desktop\netpc\Back\NetPCTask\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hikkaru\Desktop\netpc\Back\NetPCTask\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hikkaru\Desktop\netpc\Back\NetPCTask\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hikkaru\Desktop\netpc\Back\NetPCTask\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hikkaru\Desktop\netpc\Back\NetPCTask\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hikkaru\Desktop\netpc\Back\NetPCTask\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hikkaru\Desktop\netpc\Back\NetPCTask\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hikkaru\Desktop\netpc\Back\NetPCTask\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hikkaru\Desktop\netpc\Back\NetPCTask\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hikkaru\Desktop\netpc\Back\NetPCTask\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hikkaru\Desktop\netpc\Back\NetPCTask\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hikkaru\Desktop\netpc\Back\NetPCTask\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hikkaru\Desktop\netpc\Back\NetPCTask\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hikkaru\Desktop\netpc\Back\NetPCTask\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hikkaru\Desktop\netpc\Back\NetPCTask\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hikkaru\Desktop\netpc\Back\NetPCTask\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hikkaru\Desktop\netpc\Back\NetPCTask\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hikkaru\Desktop\netpc\Back\NetPCTask\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hikkaru\Desktop\netpc\Back\NetPCTask\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hikkaru\Desktop\netpc\Back\NetPCTask\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hikkaru\Desktop\netpc\Back\NetPCTask\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hikkaru\Desktop\netpc\Back\NetPCTask\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hikkaru\Desktop\netpc\Back\NetPCTask\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hikkaru\Desktop\netpc\Back\NetPCTask\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hikkaru\Desktop\netpc\Back\NetPCTask\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hikkaru\Desktop\netpc\Back\NetPCTask\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hikkaru\Desktop\netpc\Back\NetPCTask\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hikkaru\Desktop\netpc\Back\NetPCTask\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hikkaru\Desktop\netpc\Back\NetPCTask\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hikkaru\Desktop\netpc\Back\NetPCTask\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hikkaru\Desktop\netpc\Back\NetPCTask\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hikkaru\Desktop\netpc\Back\NetPCTask\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hikkaru\Desktop\netpc\Back\NetPCTask\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hikkaru\Desktop\netpc\Back\NetPCTask\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hikkaru\Desktop\netpc\Back\NetPCTask\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hikkaru\Desktop\netpc\Back\NetPCTask\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hikkaru\Desktop\netpc\Back\NetPCTask\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hikkaru\Desktop\netpc\Back\NetPCTask\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hikkaru\Desktop\netpc\Back\NetPCTask\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hikkaru\Desktop\netpc\Back\NetPCTask\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hikkaru\Desktop\netpc\Back\NetPCTask\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hikkaru\Desktop\netpc\Back\NetPCTask\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hikkaru\Desktop\netpc\Back\NetPCTask\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hikkaru\Desktop\netpc\Back\NetPCTask\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hikkaru\Desktop\netpc\Back\NetPCTask\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hikkaru\Desktop\netpc\Back\NetPCTask\obj\Debug\net8.0\NetPCTask.csproj.AssemblyReference.cache
+C:\Users\Hikkaru\Desktop\netpc\Back\NetPCTask\obj\Debug\net8.0\NetPCTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hikkaru\Desktop\netpc\Back\NetPCTask\obj\Debug\net8.0\NetPCTask.AssemblyInfoInputs.cache
+C:\Users\Hikkaru\Desktop\netpc\Back\NetPCTask\obj\Debug\net8.0\NetPCTask.AssemblyInfo.cs
+C:\Users\Hikkaru\Desktop\netpc\Back\NetPCTask\obj\Debug\net8.0\NetPCTask.csproj.CoreCompileInputs.cache
+C:\Users\Hikkaru\Desktop\netpc\Back\NetPCTask\obj\Debug\net8.0\NetPCTask.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Hikkaru\Desktop\netpc\Back\NetPCTask\obj\Debug\net8.0\NetPCTask.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Hikkaru\Desktop\netpc\Back\NetPCTask\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Hikkaru\Desktop\netpc\Back\NetPCTask\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Hikkaru\Desktop\netpc\Back\NetPCTask\obj\Debug\net8.0\staticwebassets\msbuild.NetPCTask.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Hikkaru\Desktop\netpc\Back\NetPCTask\obj\Debug\net8.0\staticwebassets\msbuild.build.NetPCTask.props
+C:\Users\Hikkaru\Desktop\netpc\Back\NetPCTask\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.NetPCTask.props
+C:\Users\Hikkaru\Desktop\netpc\Back\NetPCTask\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.NetPCTask.props
+C:\Users\Hikkaru\Desktop\netpc\Back\NetPCTask\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Hikkaru\Desktop\netpc\Back\NetPCTask\obj\Debug\net8.0\scopedcss\bundle\NetPCTask.styles.css
+C:\Users\Hikkaru\Desktop\netpc\Back\NetPCTask\obj\Debug\net8.0\NetPCTask.csproj.Up2Date
+C:\Users\Hikkaru\Desktop\netpc\Back\NetPCTask\obj\Debug\net8.0\NetPCTask.dll
+C:\Users\Hikkaru\Desktop\netpc\Back\NetPCTask\obj\Debug\net8.0\refint\NetPCTask.dll
+C:\Users\Hikkaru\Desktop\netpc\Back\NetPCTask\obj\Debug\net8.0\NetPCTask.pdb
+C:\Users\Hikkaru\Desktop\netpc\Back\NetPCTask\obj\Debug\net8.0\NetPCTask.genruntimeconfig.cache
+C:\Users\Hikkaru\Desktop\netpc\Back\NetPCTask\obj\Debug\net8.0\ref\NetPCTask.dll
+C:\Users\Hikkaru\Desktop\netpc — kopia\Back\NetPCTask\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Hikkaru\Desktop\netpc — kopia\Back\NetPCTask\bin\Debug\net8.0\appsettings.json
+C:\Users\Hikkaru\Desktop\netpc — kopia\Back\NetPCTask\bin\Debug\net8.0\NetPCTask.exe
+C:\Users\Hikkaru\Desktop\netpc — kopia\Back\NetPCTask\bin\Debug\net8.0\NetPCTask.deps.json
+C:\Users\Hikkaru\Desktop\netpc — kopia\Back\NetPCTask\bin\Debug\net8.0\NetPCTask.runtimeconfig.json
+C:\Users\Hikkaru\Desktop\netpc — kopia\Back\NetPCTask\bin\Debug\net8.0\NetPCTask.dll
+C:\Users\Hikkaru\Desktop\netpc — kopia\Back\NetPCTask\bin\Debug\net8.0\NetPCTask.pdb
+C:\Users\Hikkaru\Desktop\netpc — kopia\Back\NetPCTask\bin\Debug\net8.0\AutoMapper.dll
+C:\Users\Hikkaru\Desktop\netpc — kopia\Back\NetPCTask\bin\Debug\net8.0\BCrypt.Net-Next.dll
+C:\Users\Hikkaru\Desktop\netpc — kopia\Back\NetPCTask\bin\Debug\net8.0\Humanizer.dll
+C:\Users\Hikkaru\Desktop\netpc — kopia\Back\NetPCTask\bin\Debug\net8.0\System.Web.Cors.dll
+C:\Users\Hikkaru\Desktop\netpc — kopia\Back\NetPCTask\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Hikkaru\Desktop\netpc — kopia\Back\NetPCTask\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\Hikkaru\Desktop\netpc — kopia\Back\NetPCTask\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Hikkaru\Desktop\netpc — kopia\Back\NetPCTask\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Hikkaru\Desktop\netpc — kopia\Back\NetPCTask\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Hikkaru\Desktop\netpc — kopia\Back\NetPCTask\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Hikkaru\Desktop\netpc — kopia\Back\NetPCTask\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Hikkaru\Desktop\netpc — kopia\Back\NetPCTask\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Hikkaru\Desktop\netpc — kopia\Back\NetPCTask\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Hikkaru\Desktop\netpc — kopia\Back\NetPCTask\bin\Debug\net8.0\Microsoft.Exchange.WebServices.Auth.dll
+C:\Users\Hikkaru\Desktop\netpc — kopia\Back\NetPCTask\bin\Debug\net8.0\Microsoft.Exchange.WebServices.dll
+C:\Users\Hikkaru\Desktop\netpc — kopia\Back\NetPCTask\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Hikkaru\Desktop\netpc — kopia\Back\NetPCTask\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Hikkaru\Desktop\netpc — kopia\Back\NetPCTask\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Hikkaru\Desktop\netpc — kopia\Back\NetPCTask\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Hikkaru\Desktop\netpc — kopia\Back\NetPCTask\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Hikkaru\Desktop\netpc — kopia\Back\NetPCTask\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Hikkaru\Desktop\netpc — kopia\Back\NetPCTask\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\Hikkaru\Desktop\netpc — kopia\Back\NetPCTask\bin\Debug\net8.0\Npgsql.dll
+C:\Users\Hikkaru\Desktop\netpc — kopia\Back\NetPCTask\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\Hikkaru\Desktop\netpc — kopia\Back\NetPCTask\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Hikkaru\Desktop\netpc — kopia\Back\NetPCTask\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Hikkaru\Desktop\netpc — kopia\Back\NetPCTask\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Hikkaru\Desktop\netpc — kopia\Back\NetPCTask\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\Hikkaru\Desktop\netpc — kopia\Back\NetPCTask\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\Hikkaru\Desktop\netpc — kopia\Back\NetPCTask\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\Hikkaru\Desktop\netpc — kopia\Back\NetPCTask\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\Hikkaru\Desktop\netpc — kopia\Back\NetPCTask\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\Hikkaru\Desktop\netpc — kopia\Back\NetPCTask\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\Hikkaru\Desktop\netpc — kopia\Back\NetPCTask\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Hikkaru\Desktop\netpc — kopia\Back\NetPCTask\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hikkaru\Desktop\netpc — kopia\Back\NetPCTask\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hikkaru\Desktop\netpc — kopia\Back\NetPCTask\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hikkaru\Desktop\netpc — kopia\Back\NetPCTask\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hikkaru\Desktop\netpc — kopia\Back\NetPCTask\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hikkaru\Desktop\netpc — kopia\Back\NetPCTask\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hikkaru\Desktop\netpc — kopia\Back\NetPCTask\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hikkaru\Desktop\netpc — kopia\Back\NetPCTask\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hikkaru\Desktop\netpc — kopia\Back\NetPCTask\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hikkaru\Desktop\netpc — kopia\Back\NetPCTask\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hikkaru\Desktop\netpc — kopia\Back\NetPCTask\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hikkaru\Desktop\netpc — kopia\Back\NetPCTask\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hikkaru\Desktop\netpc — kopia\Back\NetPCTask\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hikkaru\Desktop\netpc — kopia\Back\NetPCTask\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hikkaru\Desktop\netpc — kopia\Back\NetPCTask\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hikkaru\Desktop\netpc — kopia\Back\NetPCTask\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hikkaru\Desktop\netpc — kopia\Back\NetPCTask\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hikkaru\Desktop\netpc — kopia\Back\NetPCTask\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hikkaru\Desktop\netpc — kopia\Back\NetPCTask\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hikkaru\Desktop\netpc — kopia\Back\NetPCTask\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hikkaru\Desktop\netpc — kopia\Back\NetPCTask\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hikkaru\Desktop\netpc — kopia\Back\NetPCTask\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hikkaru\Desktop\netpc — kopia\Back\NetPCTask\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hikkaru\Desktop\netpc — kopia\Back\NetPCTask\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hikkaru\Desktop\netpc — kopia\Back\NetPCTask\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hikkaru\Desktop\netpc — kopia\Back\NetPCTask\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hikkaru\Desktop\netpc — kopia\Back\NetPCTask\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hikkaru\Desktop\netpc — kopia\Back\NetPCTask\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hikkaru\Desktop\netpc — kopia\Back\NetPCTask\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hikkaru\Desktop\netpc — kopia\Back\NetPCTask\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hikkaru\Desktop\netpc — kopia\Back\NetPCTask\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hikkaru\Desktop\netpc — kopia\Back\NetPCTask\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hikkaru\Desktop\netpc — kopia\Back\NetPCTask\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hikkaru\Desktop\netpc — kopia\Back\NetPCTask\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hikkaru\Desktop\netpc — kopia\Back\NetPCTask\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hikkaru\Desktop\netpc — kopia\Back\NetPCTask\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hikkaru\Desktop\netpc — kopia\Back\NetPCTask\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hikkaru\Desktop\netpc — kopia\Back\NetPCTask\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hikkaru\Desktop\netpc — kopia\Back\NetPCTask\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hikkaru\Desktop\netpc — kopia\Back\NetPCTask\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hikkaru\Desktop\netpc — kopia\Back\NetPCTask\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hikkaru\Desktop\netpc — kopia\Back\NetPCTask\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hikkaru\Desktop\netpc — kopia\Back\NetPCTask\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hikkaru\Desktop\netpc — kopia\Back\NetPCTask\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hikkaru\Desktop\netpc — kopia\Back\NetPCTask\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hikkaru\Desktop\netpc — kopia\Back\NetPCTask\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hikkaru\Desktop\netpc — kopia\Back\NetPCTask\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hikkaru\Desktop\netpc — kopia\Back\NetPCTask\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hikkaru\Desktop\netpc — kopia\Back\NetPCTask\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hikkaru\Desktop\netpc — kopia\Back\NetPCTask\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hikkaru\Desktop\netpc — kopia\Back\NetPCTask\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hikkaru\Desktop\netpc — kopia\Back\NetPCTask\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hikkaru\Desktop\netpc — kopia\Back\NetPCTask\obj\Debug\net8.0\NetPCTask.csproj.AssemblyReference.cache
+C:\Users\Hikkaru\Desktop\netpc — kopia\Back\NetPCTask\obj\Debug\net8.0\NetPCTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hikkaru\Desktop\netpc — kopia\Back\NetPCTask\obj\Debug\net8.0\NetPCTask.AssemblyInfoInputs.cache
+C:\Users\Hikkaru\Desktop\netpc — kopia\Back\NetPCTask\obj\Debug\net8.0\NetPCTask.AssemblyInfo.cs
+C:\Users\Hikkaru\Desktop\netpc — kopia\Back\NetPCTask\obj\Debug\net8.0\NetPCTask.csproj.CoreCompileInputs.cache
+C:\Users\Hikkaru\Desktop\netpc — kopia\Back\NetPCTask\obj\Debug\net8.0\NetPCTask.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Hikkaru\Desktop\netpc — kopia\Back\NetPCTask\obj\Debug\net8.0\NetPCTask.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Hikkaru\Desktop\netpc — kopia\Back\NetPCTask\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Hikkaru\Desktop\netpc — kopia\Back\NetPCTask\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Hikkaru\Desktop\netpc — kopia\Back\NetPCTask\obj\Debug\net8.0\staticwebassets\msbuild.NetPCTask.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Hikkaru\Desktop\netpc — kopia\Back\NetPCTask\obj\Debug\net8.0\staticwebassets\msbuild.build.NetPCTask.props
+C:\Users\Hikkaru\Desktop\netpc — kopia\Back\NetPCTask\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.NetPCTask.props
+C:\Users\Hikkaru\Desktop\netpc — kopia\Back\NetPCTask\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.NetPCTask.props
+C:\Users\Hikkaru\Desktop\netpc — kopia\Back\NetPCTask\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Hikkaru\Desktop\netpc — kopia\Back\NetPCTask\obj\Debug\net8.0\scopedcss\bundle\NetPCTask.styles.css
+C:\Users\Hikkaru\Desktop\netpc — kopia\Back\NetPCTask\obj\Debug\net8.0\NetPCTask.csproj.Up2Date
+C:\Users\Hikkaru\Desktop\netpc — kopia\Back\NetPCTask\obj\Debug\net8.0\NetPCTask.dll
+C:\Users\Hikkaru\Desktop\netpc — kopia\Back\NetPCTask\obj\Debug\net8.0\refint\NetPCTask.dll
+C:\Users\Hikkaru\Desktop\netpc — kopia\Back\NetPCTask\obj\Debug\net8.0\NetPCTask.pdb
+C:\Users\Hikkaru\Desktop\netpc — kopia\Back\NetPCTask\obj\Debug\net8.0\NetPCTask.genruntimeconfig.cache
+C:\Users\Hikkaru\Desktop\netpc — kopia\Back\NetPCTask\obj\Debug\net8.0\ref\NetPCTask.dll
+C:\Users\Hikkaru\Desktop\netpcc\Back\NetPCTask\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Hikkaru\Desktop\netpcc\Back\NetPCTask\bin\Debug\net8.0\appsettings.json
+C:\Users\Hikkaru\Desktop\netpcc\Back\NetPCTask\bin\Debug\net8.0\NetPCTask.exe
+C:\Users\Hikkaru\Desktop\netpcc\Back\NetPCTask\bin\Debug\net8.0\NetPCTask.deps.json
+C:\Users\Hikkaru\Desktop\netpcc\Back\NetPCTask\bin\Debug\net8.0\NetPCTask.runtimeconfig.json
+C:\Users\Hikkaru\Desktop\netpcc\Back\NetPCTask\bin\Debug\net8.0\NetPCTask.dll
+C:\Users\Hikkaru\Desktop\netpcc\Back\NetPCTask\bin\Debug\net8.0\NetPCTask.pdb
+C:\Users\Hikkaru\Desktop\netpcc\Back\NetPCTask\bin\Debug\net8.0\AutoMapper.dll
+C:\Users\Hikkaru\Desktop\netpcc\Back\NetPCTask\bin\Debug\net8.0\BCrypt.Net-Next.dll
+C:\Users\Hikkaru\Desktop\netpcc\Back\NetPCTask\bin\Debug\net8.0\Humanizer.dll
+C:\Users\Hikkaru\Desktop\netpcc\Back\NetPCTask\bin\Debug\net8.0\System.Web.Cors.dll
+C:\Users\Hikkaru\Desktop\netpcc\Back\NetPCTask\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Hikkaru\Desktop\netpcc\Back\NetPCTask\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\Hikkaru\Desktop\netpcc\Back\NetPCTask\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Hikkaru\Desktop\netpcc\Back\NetPCTask\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Hikkaru\Desktop\netpcc\Back\NetPCTask\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Hikkaru\Desktop\netpcc\Back\NetPCTask\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Hikkaru\Desktop\netpcc\Back\NetPCTask\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Hikkaru\Desktop\netpcc\Back\NetPCTask\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Hikkaru\Desktop\netpcc\Back\NetPCTask\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Hikkaru\Desktop\netpcc\Back\NetPCTask\bin\Debug\net8.0\Microsoft.Exchange.WebServices.Auth.dll
+C:\Users\Hikkaru\Desktop\netpcc\Back\NetPCTask\bin\Debug\net8.0\Microsoft.Exchange.WebServices.dll
+C:\Users\Hikkaru\Desktop\netpcc\Back\NetPCTask\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Hikkaru\Desktop\netpcc\Back\NetPCTask\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Hikkaru\Desktop\netpcc\Back\NetPCTask\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Hikkaru\Desktop\netpcc\Back\NetPCTask\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Hikkaru\Desktop\netpcc\Back\NetPCTask\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Hikkaru\Desktop\netpcc\Back\NetPCTask\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Hikkaru\Desktop\netpcc\Back\NetPCTask\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\Hikkaru\Desktop\netpcc\Back\NetPCTask\bin\Debug\net8.0\Npgsql.dll
+C:\Users\Hikkaru\Desktop\netpcc\Back\NetPCTask\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\Hikkaru\Desktop\netpcc\Back\NetPCTask\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Hikkaru\Desktop\netpcc\Back\NetPCTask\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Hikkaru\Desktop\netpcc\Back\NetPCTask\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Hikkaru\Desktop\netpcc\Back\NetPCTask\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\Hikkaru\Desktop\netpcc\Back\NetPCTask\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\Hikkaru\Desktop\netpcc\Back\NetPCTask\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\Hikkaru\Desktop\netpcc\Back\NetPCTask\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\Hikkaru\Desktop\netpcc\Back\NetPCTask\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\Hikkaru\Desktop\netpcc\Back\NetPCTask\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\Hikkaru\Desktop\netpcc\Back\NetPCTask\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Hikkaru\Desktop\netpcc\Back\NetPCTask\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hikkaru\Desktop\netpcc\Back\NetPCTask\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hikkaru\Desktop\netpcc\Back\NetPCTask\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hikkaru\Desktop\netpcc\Back\NetPCTask\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hikkaru\Desktop\netpcc\Back\NetPCTask\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hikkaru\Desktop\netpcc\Back\NetPCTask\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hikkaru\Desktop\netpcc\Back\NetPCTask\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hikkaru\Desktop\netpcc\Back\NetPCTask\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hikkaru\Desktop\netpcc\Back\NetPCTask\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hikkaru\Desktop\netpcc\Back\NetPCTask\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hikkaru\Desktop\netpcc\Back\NetPCTask\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hikkaru\Desktop\netpcc\Back\NetPCTask\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hikkaru\Desktop\netpcc\Back\NetPCTask\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hikkaru\Desktop\netpcc\Back\NetPCTask\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hikkaru\Desktop\netpcc\Back\NetPCTask\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hikkaru\Desktop\netpcc\Back\NetPCTask\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hikkaru\Desktop\netpcc\Back\NetPCTask\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hikkaru\Desktop\netpcc\Back\NetPCTask\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hikkaru\Desktop\netpcc\Back\NetPCTask\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hikkaru\Desktop\netpcc\Back\NetPCTask\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hikkaru\Desktop\netpcc\Back\NetPCTask\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hikkaru\Desktop\netpcc\Back\NetPCTask\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hikkaru\Desktop\netpcc\Back\NetPCTask\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hikkaru\Desktop\netpcc\Back\NetPCTask\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hikkaru\Desktop\netpcc\Back\NetPCTask\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hikkaru\Desktop\netpcc\Back\NetPCTask\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hikkaru\Desktop\netpcc\Back\NetPCTask\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hikkaru\Desktop\netpcc\Back\NetPCTask\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hikkaru\Desktop\netpcc\Back\NetPCTask\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hikkaru\Desktop\netpcc\Back\NetPCTask\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hikkaru\Desktop\netpcc\Back\NetPCTask\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hikkaru\Desktop\netpcc\Back\NetPCTask\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hikkaru\Desktop\netpcc\Back\NetPCTask\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hikkaru\Desktop\netpcc\Back\NetPCTask\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hikkaru\Desktop\netpcc\Back\NetPCTask\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hikkaru\Desktop\netpcc\Back\NetPCTask\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hikkaru\Desktop\netpcc\Back\NetPCTask\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hikkaru\Desktop\netpcc\Back\NetPCTask\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hikkaru\Desktop\netpcc\Back\NetPCTask\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hikkaru\Desktop\netpcc\Back\NetPCTask\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hikkaru\Desktop\netpcc\Back\NetPCTask\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hikkaru\Desktop\netpcc\Back\NetPCTask\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hikkaru\Desktop\netpcc\Back\NetPCTask\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hikkaru\Desktop\netpcc\Back\NetPCTask\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hikkaru\Desktop\netpcc\Back\NetPCTask\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hikkaru\Desktop\netpcc\Back\NetPCTask\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hikkaru\Desktop\netpcc\Back\NetPCTask\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hikkaru\Desktop\netpcc\Back\NetPCTask\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hikkaru\Desktop\netpcc\Back\NetPCTask\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hikkaru\Desktop\netpcc\Back\NetPCTask\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hikkaru\Desktop\netpcc\Back\NetPCTask\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hikkaru\Desktop\netpcc\Back\NetPCTask\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hikkaru\Desktop\netpcc\Back\NetPCTask\obj\Debug\net8.0\NetPCTask.csproj.AssemblyReference.cache
+C:\Users\Hikkaru\Desktop\netpcc\Back\NetPCTask\obj\Debug\net8.0\NetPCTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hikkaru\Desktop\netpcc\Back\NetPCTask\obj\Debug\net8.0\NetPCTask.AssemblyInfoInputs.cache
+C:\Users\Hikkaru\Desktop\netpcc\Back\NetPCTask\obj\Debug\net8.0\NetPCTask.AssemblyInfo.cs
+C:\Users\Hikkaru\Desktop\netpcc\Back\NetPCTask\obj\Debug\net8.0\NetPCTask.csproj.CoreCompileInputs.cache
+C:\Users\Hikkaru\Desktop\netpcc\Back\NetPCTask\obj\Debug\net8.0\NetPCTask.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Hikkaru\Desktop\netpcc\Back\NetPCTask\obj\Debug\net8.0\NetPCTask.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Hikkaru\Desktop\netpcc\Back\NetPCTask\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Hikkaru\Desktop\netpcc\Back\NetPCTask\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Hikkaru\Desktop\netpcc\Back\NetPCTask\obj\Debug\net8.0\staticwebassets\msbuild.NetPCTask.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Hikkaru\Desktop\netpcc\Back\NetPCTask\obj\Debug\net8.0\staticwebassets\msbuild.build.NetPCTask.props
+C:\Users\Hikkaru\Desktop\netpcc\Back\NetPCTask\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.NetPCTask.props
+C:\Users\Hikkaru\Desktop\netpcc\Back\NetPCTask\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.NetPCTask.props
+C:\Users\Hikkaru\Desktop\netpcc\Back\NetPCTask\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Hikkaru\Desktop\netpcc\Back\NetPCTask\obj\Debug\net8.0\scopedcss\bundle\NetPCTask.styles.css
+C:\Users\Hikkaru\Desktop\netpcc\Back\NetPCTask\obj\Debug\net8.0\NetPCTask.csproj.Up2Date
+C:\Users\Hikkaru\Desktop\netpcc\Back\NetPCTask\obj\Debug\net8.0\NetPCTask.dll
+C:\Users\Hikkaru\Desktop\netpcc\Back\NetPCTask\obj\Debug\net8.0\refint\NetPCTask.dll
+C:\Users\Hikkaru\Desktop\netpcc\Back\NetPCTask\obj\Debug\net8.0\NetPCTask.pdb
+C:\Users\Hikkaru\Desktop\netpcc\Back\NetPCTask\obj\Debug\net8.0\NetPCTask.genruntimeconfig.cache
+C:\Users\Hikkaru\Desktop\netpcc\Back\NetPCTask\obj\Debug\net8.0\ref\NetPCTask.dll
