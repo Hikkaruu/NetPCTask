@@ -1,6 +1,8 @@
 # Recruitment task for NET PC sp. z o.o
 <br>
 
+The database is hosted on neon.tech
+
 ## Installation of Required Applications
 
 ### 1. VisualStudio (Backend C# .NET API)
