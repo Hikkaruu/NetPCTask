@@ -37,7 +37,10 @@ If for any reason the application doesn't start using "Method 1":
   dotnet run
   ```
 <b>Frontend</b>
-- Using the console, navigate to the <b>Front\netpctask</b> directory and run the command:
+- Using the console, navigate to the <b>Front\netpctask</b> directory and run the commands:
+   ```bash
+  npm install
+  ```
   ```bash
   npm start
   ```
